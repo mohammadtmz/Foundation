@@ -2,7 +2,7 @@
 
 ## Basic Commands
 - `pwd` - Print the current working directory.
-  - **Example:** `pwd`  
+  - **Example:** ``` pwd ```  
     Output: `/home/user`
 - `ls` - List directory contents.
   - `ls -l` - Long listing format.
